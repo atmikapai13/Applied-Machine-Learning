@@ -1,5 +1,5 @@
 # Applied-Machine-Learning
 
-Part of Cornell Tech Coursework
+Part of Cornell Tech AML Coursework
 
-#https://kuleshov-group.github.io/aml-book/intro.html
+https://kuleshov-group.github.io/aml-book/intro.html
